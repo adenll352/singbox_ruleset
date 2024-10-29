@@ -1,0 +1,18 @@
+{
+  "rules": [
+    {
+      "domain_suffix": [
+        "adbxb.cn",
+        "oupengcloud.cn",
+        "adbxb.com",
+        "opfed.com",
+        "oupengcloud.net",
+        "oupeng.net.cn",
+        "oupeng.com",
+        "opthink.cn",
+        "oupeng9.com"
+      ]
+    }
+  ],
+  "version": 2
+}
