@@ -1,0 +1,17 @@
+{
+  "rules": [
+    {
+      "domain_suffix": [
+        "pgyer.im",
+        "tracup.com",
+        "pgyer.com",
+        "xcxwo.com",
+        "testin.im",
+        "qcers.net",
+        "qcers.com",
+        "pgyer.cc"
+      ]
+    }
+  ],
+  "version": 2
+}

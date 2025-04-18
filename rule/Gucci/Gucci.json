@@ -1,0 +1,15 @@
+{
+  "rules": [
+    {
+      "domain_suffix": [
+        "gucci.com",
+        "chimeforchange.org",
+        "guccitimeless.com",
+        "gucci.cn",
+        "guccimuseo.com",
+        "regiongold.com"
+      ]
+    }
+  ],
+  "version": 2
+}

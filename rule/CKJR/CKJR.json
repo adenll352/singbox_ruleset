@@ -1,0 +1,22 @@
+{
+  "rules": [
+    {
+      "domain_suffix": [
+        "ckjr001.cn",
+        "tkckjr.com",
+        "myckjr.cn",
+        "tjckjr.com",
+        "tengkackjr.com",
+        "tengkaxx.com",
+        "51ckjr.com",
+        "ckjr001.com",
+        "meituo.shop",
+        "myckjr.com",
+        "qxckjr.com",
+        "ckjryy.com",
+        "sxyckjr.com"
+      ]
+    }
+  ],
+  "version": 2
+}
